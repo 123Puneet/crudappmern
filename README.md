@@ -19,3 +19,4 @@ cd client && npm start
 
 
 "# crudblogtask" 
+"# blogappcrudmernstack" 
